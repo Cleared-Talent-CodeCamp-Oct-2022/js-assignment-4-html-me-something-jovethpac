@@ -7,9 +7,10 @@ body {
 
 h1 {
     font-style: italic;
-    font-size: x-large font: bold;
+    font-size: x-large;
+    font: bold;
     font-family: cursive;
-    color: blue
+    color: blue;
 }
 
 .p1 {
@@ -38,12 +39,13 @@ ol {
 
 .green {
     font: 1em sans-serif;
-    color: darkolivegreen
+    color: darkolivegreen;
 }
 
 div {
     border: 1px solid black;
-    background-color: aquamarine padding-top: 50px;
+    background-color: aquamarine;
+    padding-top: 50px;
     padding-right: 30px;
     padding-bottom: 30px;
     padding-left: 30px;
